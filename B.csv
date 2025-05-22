@@ -1,0 +1,7 @@
+Age,Gender,Blood_Pressure,Cholesterol,Heart_Rate,Diabetic,Outcome
+45,Male,120,200,80,Yes,1
+50,Female,130,180,85,No,0
+38,Male,110,190,70,No,0
+60,Female,140,210,90,Yes,1
+48,Male,125,220,75,Yes,1
+30,Female,115,170,68,No,0
